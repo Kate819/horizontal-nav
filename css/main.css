@@ -1,0 +1,79 @@
+html {
+  box-sizing: border-box;
+  background-color: #dbd6cf;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+nav {
+  margin: 0;
+}
+
+div {
+  background-color: #79756f;
+  border: 3px solid #595652;
+}
+
+h1 {
+  font-family: Bevan, serif;
+  color: #fff;
+  text-align: center;
+  margin: 0;
+}
+
+.intro {
+  list-style-type: none;
+  display: inline-block;
+  padding: .6em;
+  background-color: #713837;
+  color: #fff;
+  border-radius: 5px;
+}
+
+.terres {
+  list-style-type: none;
+  display: inline-block;
+  padding: .6em;
+  background-color: #713837;
+  color: #fff;
+  border-radius: 5px;
+}
+
+.mars {
+  list-style-type: none;
+  display: inline-block;
+  padding: .6em;
+  background-color: #713837;
+  color: #fff;
+  border-radius: 5px;
+}
+
+.venus {
+  list-style-type: none;
+  display: inline-block;
+  padding: .6em;
+  background-color: #713837;
+  color: #fff;
+  border-radius: 5px;
+}
+
+a:hover {
+  color: #f33;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+:hover {
+  color: #f33;
+}
